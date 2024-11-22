@@ -1,0 +1,20 @@
+# all codes are taken with the remote set at 12:00AM, No Schedule
+
+Stop:                 {22,242,0,0,255,109,0}
+
+Auto(Standard):       {22,112,0,0,255,174,0}
+Auto(Boost IQ):       {22,176,0,0,255,46,0}
+Auto(Max):            {22,48,0,0,255,206,0}
+
+Play(Standard):       {22,122,0,0,255,163,0}
+play(Boost IQ):       {22,186,0,0,255,35,0}
+Play(Max):            {22,58,0,0,255,195,0}
+
+Spiral Clean:         {22,49,0,0,255,207,0}
+Edge Clean:           {22,57,0,0,255,192,0}
+
+30 Min(Standard):     {22,117,0,0,255,168,0}
+30 Min(Boost IQ):     {22,181,0,0,255,40,0}
+30 Min(Max):          {22,61,0,0,255,196,0}
+
+Go Home:              {22,247,0,0,255,106,0}
